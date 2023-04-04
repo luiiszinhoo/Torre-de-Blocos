@@ -1,7 +1,7 @@
 # Torre-de-Blocos
 Joguinho simples e nostalgico
 
-<h1>Torre de Blocos<h1>
+<h5>Torre de Blocos<h5>
 
 <p>Clássico jogo de celular feito em html/css/js, para rodar no navegador.</p>
 
